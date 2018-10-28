@@ -3,7 +3,7 @@ layout: post
 nav-class: dark
 categories: company, damian
 ---
-# Initial work on `Certify` complete
+
 It's been mentioned in my initial blog post that I'd be working on a TLS
 certificate store abstraction library, with the intent of submitting it for
 formal review for Boost, at some point in the (hopefully near) future.
@@ -31,4 +31,4 @@ OCSP configuration into an OpenSSL context. This is potentially a little bit har
 may offer better performance (no reencoding required when veryfing certificate chains) and eliminates
 the issues related to error handling. Further investigation, as to which approach is better, is required.
 
-Don't forget to star the repository: https://github.com/djarek/certify!
+Don't forget to star the repository: [https://github.com/djarek/certify](https://github.com/djarek/certify)!
